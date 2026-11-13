@@ -14,4 +14,4 @@ Repository ini dibuat untuk mempelajari dasar penggunaan Git.
 - [x] Git initialization
 - [x] Git add
 - [x] Git commit
-- [ ] Git branching
+- [x] Git branching
