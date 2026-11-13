@@ -8,3 +8,10 @@ Repository ini dibuat untuk mempelajari dasar penggunaan Git.
 - Git commit
 - Git status
 - Git log
+
+## Learning Progress
+
+- [x] Git initialization
+- [x] Git add
+- [x] Git commit
+- [ ] Git branching
